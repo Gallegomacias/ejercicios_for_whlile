@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SumaNaturales {
+public class main {
     public static void main(String[] args) {
         int numeroFinal = 0;
         int sumaAcumulada = 0;
